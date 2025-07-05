@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "malvin~Am8ziCJK#u31rkwY4AT2NMvYceYLNaZwxgEnLPjROO38EEzL8dgI",
+SESSION_ID: process.env.SESSION_ID || "malvin~J3kyDRiQ#CaoMqtLPoiI0oPhSP33XVnCQLDMkA3YtF64I9_PvTv8",
 // add your Session Id make sure it starts with malvin~
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
